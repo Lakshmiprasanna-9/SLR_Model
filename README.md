@@ -162,6 +162,6 @@ The deployment uses:
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star!
+
 
 **Developed using Python, Machine Learning, Flask, HTML, and CSS.**
